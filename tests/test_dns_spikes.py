@@ -1,4 +1,4 @@
-# Author: TK
+# Author: Mohammad Hammad Asif
 # Date: 23-01-2026
 # Desc: Unit Tests for DnsSpikeRule
 # These teests validate the DNS spike detection logic correctly identifies
