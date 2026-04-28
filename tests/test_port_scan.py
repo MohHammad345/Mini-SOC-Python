@@ -1,4 +1,4 @@
-# Author: TK
+# Author: Mohammad Hammad Asif
 # Date: 24-01-2026
 # Desc: Unit tests for PortScanRule, The test validate the port scan logic
 # works correctly
